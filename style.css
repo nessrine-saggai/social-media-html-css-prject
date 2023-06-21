@@ -1,0 +1,20 @@
+.services{
+    text-align: center;
+    
+    background-color: white;
+    
+}
+.name{
+    color: blueviolet;
+
+}
+.social-media{ 
+    display: inline-block;
+    width: 30%;
+}
+.blue{
+    color: blue;
+ }
+ .pink{
+    color: rgb(222, 16, 146);
+ }
